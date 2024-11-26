@@ -3,3 +3,13 @@ pandas
 matplotlib
 seaborn
 scikit-learn
+notebook
+mlflow
+python-box
+pyYAML
+tqdm
+ensure
+joblib
+types-PyYAML
+Flask
+Flask-Cors
